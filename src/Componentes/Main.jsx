@@ -7,8 +7,8 @@ const Main = () => {
         <img className="mx-auto w-96" src="/orkut_logo.png" alt="orkut-logo" />
         <div className="mt-5">
           <p className="text-center">
-            <strong className="text-pink-700">Conecta-se</strong> aos seus amigos
-            e familiares usando recados e mensagens instantâneas
+            <strong className="text-pink-700">Conecta-se</strong> aos seus
+            amigos e familiares usando recados e mensagens instantâneas
           </p>
           <p className="text-center">
             <strong className="text-pink-700">Conheça</strong> novas pessoas

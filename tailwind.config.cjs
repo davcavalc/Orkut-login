@@ -17,7 +17,7 @@ module.exports = {
       pink: colors.pink,
       yellow: colors.amber,
       orkutform: "#e8eefa",
-      outros:"#8f8a8f",
+      outros: "#8f8a8f",
     },
     extend: {},
   },
