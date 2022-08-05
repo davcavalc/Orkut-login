@@ -1,8 +1,8 @@
 import React from "react";
-import BottomBar from "./Componentes/BottomBar";
 import Header from "./Componentes/Header";
 import LeftSide from "./Componentes/LeftSide";
 import Main from "./Componentes/Main";
+import Footer from "./Componentes/Footer.jsx"
 import "./index.css";
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
 				<Main />
 				<LeftSide />
 			</div>
-			<BottomBar />
+			<Footer/>
 		</React.Fragment>
 	);
 }
