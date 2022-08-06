@@ -1,8 +1,8 @@
 import React from "react";
+import Footer from "./Componentes/Footer.jsx";
 import Header from "./Componentes/Header";
 import LeftSide from "./Componentes/LeftSide";
 import Main from "./Componentes/Main";
-import Footer from "./Componentes/Footer.jsx"
 import "./index.css";
 
 function App() {
@@ -11,9 +11,9 @@ function App() {
 			<Header />
 			<div className="flex ml-[128px] flex-row">
 				<Main />
-				<LeftSide />
+				<LeftSide brand="Google" />
 			</div>
-			<Footer/>
+			<Footer />
 		</React.Fragment>
 	);
 }
